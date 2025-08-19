@@ -1,0 +1,15 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# Ignore virtual environment
+.venv/
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore environment variables
+.env
+
+# Ignore other system files
+.DS_Store
+Thumbs.db
